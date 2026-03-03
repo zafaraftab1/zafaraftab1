@@ -359,7 +359,7 @@ class AftabAlam:
 
 </div>
 
----
+----
 
 <!-- FOOTER ASCII -->
 <div align="center">
