@@ -5,7 +5,7 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,2,8&height=350&section=header&text=Md%20Aftab%20Alam&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Python%20Backend%20Engineer%20%7C%20API%20Architect%20%7C%20AI%20Integrations&descAlignY=58&descSize=21&descColor=ffffff&stroke=DC2626&strokeWidth=4)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,2,8&height=350&section=header&text=Md%20Aftab%20Alam&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Python%20Backend%20Engineer%20%7C%20API%20Architect%20%7C%20AI%20Integrations&descAlignY=58&descSize=21&descColor=DC2626&stroke=DC2626&strokeWidth=4)
 
 </div>
 
