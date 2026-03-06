@@ -308,17 +308,6 @@ class AftabAlam:
 
 ---
 
-<!-- SNAKE -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake Dark](https://raw.githubusercontent.com/zafaraftab1/zafaraftab1/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <!-- DEV QUOTE -->
 ## 💬 Dev Quote of the Day
 
