@@ -44,7 +44,7 @@
 ┌──(aftab㉿darkserver)-[~/production]
 │
 ├─ 👤 Name     : Md Aftab Alam
-├─ 💼 Role     : Python Backend Engineer/ Gen AI Engineer
+├─ 💼 Role     : Python Backend Engineer/ GenAI Engineer
 ├─ 🌍 Location : India 🇮🇳
 ├─ ⏳ Exp      : 4.3 Years
 ├─ 🔥 Motto    : "Backend is where the magic happens ✨"
